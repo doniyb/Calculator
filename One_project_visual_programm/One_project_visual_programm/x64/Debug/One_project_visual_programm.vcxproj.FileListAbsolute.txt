@@ -1,0 +1,9 @@
+D:\One_project_visual_programm\One_project_visual_programm\x64\Debug\One_project_visual_programm.vcxproj.AssemblyReference.cache
+D:\One_project_visual_programm\One_project_visual_programm\x64\Debug\Oneprojectvisualprogramm.MyForm.resources
+D:\One_project_visual_programm\One_project_visual_programm\x64\Debug\One_project_visual_programm.vcxproj.GenerateResource.cache
+D:\С++\One_project_visual_programm\One_project_visual_programm\x64\Debug\One_project_visual_programm.vcxproj.AssemblyReference.cache
+D:\С++\One_project_visual_programm\One_project_visual_programm\x64\Debug\Oneprojectvisualprogramm.MyForm.resources
+D:\С++\One_project_visual_programm\One_project_visual_programm\x64\Debug\One_project_visual_programm.vcxproj.GenerateResource.cache
+D:\ФайлыС++\Проекты_С++\One_project_visual_programm\One_project_visual_programm\x64\Debug\One_project_visual_programm.vcxproj.AssemblyReference.cache
+D:\ФайлыС++\Проекты_С++\One_project_visual_programm\One_project_visual_programm\x64\Debug\Oneprojectvisualprogramm.MyForm.resources
+D:\ФайлыС++\Проекты_С++\One_project_visual_programm\One_project_visual_programm\x64\Debug\One_project_visual_programm.vcxproj.GenerateResource.cache
